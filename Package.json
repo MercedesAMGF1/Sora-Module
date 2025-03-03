@@ -1,0 +1,10 @@
+{
+  "name": "hanime-module",
+  "version": "1.0.0",
+  "description": "Sora module for hanime.tv",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^19.0.0"
+  }
+}
